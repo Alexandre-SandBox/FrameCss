@@ -1,0 +1,18 @@
+.display-f{
+    display: flex;
+}
+.flex-justify-center{
+    justify-content: center;
+}
+.flex-justify-end{
+    justify-content: flex-end;
+}
+.flex-justify-start{
+    justify-content: flex-start;
+}
+.flex-justify-space-a{
+    justify-content: space-around;
+}
+.flex-justify-space-b{
+    justify-content: space-between;
+}
