@@ -1,0 +1,17 @@
+.navbar a.link{
+    text-decoration: none;
+    color: var(--secondary);
+}
+a{
+    text-decoration: none;
+    color:var(--white);
+}
+a:visited {
+    text-decoration: none;
+}
+ul.nav-list{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}

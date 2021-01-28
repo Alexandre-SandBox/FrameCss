@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: var(--secondary);
+}
+.navbar a:hover {
+    color: var(--secondary);
+}
+.navbar-silver{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: var(--secondary);
+    background-color: var(--silver);
+}
+.nav-list{
+    display: flex;
+    flex-direction: row;
+}

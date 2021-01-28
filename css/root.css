@@ -1,0 +1,25 @@
+:root {
+    /* CSS RGB */
+    --black: rgba(0, 0, 0, 1);
+    --onyx: rgba(64, 64, 64, 1);
+    --gray-web: rgba(128, 128, 128, 1);
+    --silver: rgba(192, 192, 192, 1);
+    --white: rgba(255, 255, 255, 1);
+    
+    /* CSS Gradient */
+    --gradient-top: linear-gradient(0deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-right: linear-gradient(90deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-bottom: linear-gradient(180deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-left: linear-gradient(270deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-top-right: linear-gradient(45deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-bottom-right: linear-gradient(135deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-top-left: linear-gradient(225deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-bottom-left: linear-gradient(315deg, #000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --gradient-radial: radial-gradient(#000000ff, #404040ff, #808080ff, #c0c0c0ff, #ffffffff);
+    --blue: #0d6efd;
+    --secondary: #6c757d;
+    --success: #198754;
+    --info: #0dcaf0;
+    --alerte: #ffc107;
+    --danger: #dc3545;
+}

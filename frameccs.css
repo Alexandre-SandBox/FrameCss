@@ -1,0 +1,12 @@
+@import url("/css/root.css");
+@import url("/css/screen.css");
+@import url("/css/color.css");
+@import url("/css/display.css");
+@import url("/css/nav.css");
+@import url("/css/tag.css");
+@import url("/css/button.css");
+
+body{
+    padding: 0;
+    margin: 0;
+}

@@ -14,5 +14,8 @@
     justify-content: space-around;
 }
 .flex-justify-space-b{
-    justify-content: space-between;
+    justify-content: space-between !important;
+}
+.flex-align-center{
+    align-items: center;
 }
