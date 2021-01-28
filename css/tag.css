@@ -4,7 +4,6 @@
 }
 a{
     text-decoration: none;
-    color:var(--white);
 }
 a:visited {
     text-decoration: none;
@@ -14,4 +13,10 @@ ul.nav-list{
     margin: 0;
     padding: 0;
     width: 50%;
+}
+h1,h2,h3,h4,h5,h6{
+    color: var(--black);
+}
+.underline{
+    text-decoration: underline;
 }
